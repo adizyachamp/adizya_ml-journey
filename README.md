@@ -1,3 +1,3 @@
 # adizya_ml-journey
-Journey that leads to the complete uAuntderstandhing oof LLM
+Journey that leads to the complete understanding of LLM
 AUTHOR : Aditya tripathi
